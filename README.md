@@ -81,7 +81,7 @@ $ git clone https://github.com/SpiderLabs/ModSecurity-nginx.git
 2.  Download source code NGINX untuk compile dynamic modul.
 
 ```shell
-$ wget https://raw.githubusercontent.com/XCyberusX/NGINX-ModSecurity/main/nginx-version.sh
+$ wget https://raw.githubusercontent.com/f00ds/NGINX-ModSecurity/master/nginx-version.sh
 $ source nginx-version.sh
 ```
 
